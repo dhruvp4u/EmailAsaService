@@ -1,3 +1,6 @@
+########################################### EMAIL AS A SERVICE ################################################ 
+
+
 This helps to send the emails using APIs. Database used here is MongoDB and its structure is as follows :-
 
 {
